@@ -33,7 +33,7 @@ resource "aws_security_group" "sgweb" {
   }
 
   tags = {
-    Name = "DojoJump SG"
+    Name = "Reemaaa"
   }
 }
 
